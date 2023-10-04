@@ -1,0 +1,23 @@
+* {
+  margin: 0px;
+}
+.container {
+  background-color: #ffc2a0;
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Roboto';
+}
+.card-container {
+  background-color: white;
+  /* height: 700px;
+  width: 800px; */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 40px;
+  border-radius: 20px;
+}
